@@ -1,0 +1,5 @@
+*.pdf
+*.gl
+*data
+*.csv
+.ipynb_checkpoints
